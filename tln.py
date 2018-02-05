@@ -5,6 +5,10 @@ import random
 
 # implements toy example of threshold-linear network from "pattern completion in symmetric threshold-linear networks" https://arxiv.org/abs/1512.00897 by Curto and Morrison
 
+# wrote this a couple of years ago just to practice with python and get a better sense of the topic. 
+# hobby level code, just to demonstrate very amateur-level outside of work interests.
+# one project that may be fun to look at at some point is: https://github.com/facebookresearch/poincare-embeddings
+
 
 x_dot = 0
 x_i = 0
